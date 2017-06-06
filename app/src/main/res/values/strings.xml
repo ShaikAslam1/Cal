@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cal</string>
+    <string name="textView1">First Number</string>
+    <string name="textView2">Second Number</string>
+    <string name="Addition">+</string>
+    <string name="Subtraction">-</string>
+    <string name="Multiplication">*</string>
+    <string name="Division">/</string>
+    <string name="answer">Answer</string>
+</resources>
